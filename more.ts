@@ -30,3 +30,7 @@ function getLength(input: string | number): number {
     return input.toString().length
   }
 }
+
+jQuery
+
+const aa: xxx = 'hello'
