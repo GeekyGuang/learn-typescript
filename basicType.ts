@@ -15,3 +15,9 @@ notSure.myName
 // 联合类型
 let numberOrString: number | string = 100
 numberOrString = 'hello'
+
+// Array
+let arr: number[] = [1, 2, 3, 4]
+
+// Tuple
+let t: [string, number] = ['a', 1]
